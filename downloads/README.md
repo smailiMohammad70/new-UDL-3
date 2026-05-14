@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [GTAIV.EFLC.FusionFix](./GTAIV.EFLC.FusionFix)
 - [granite-4.1-8b-Q6_K](./granite-4.1-8b-Q6_K)
 
 ---
